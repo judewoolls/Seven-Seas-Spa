@@ -13,3 +13,12 @@ nav img {
 .active {
     font-weight: bold;
 }
+
+.btn {
+    color: #3b2f2f !important;
+}
+
+
+.hero-content *{
+    opacity: 1;
+}
