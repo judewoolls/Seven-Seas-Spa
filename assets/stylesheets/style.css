@@ -1,0 +1,15 @@
+nav img {
+    margin-right: 10px;
+}
+
+.navbar {
+    background-color: white !important;
+}
+
+.navbar a {
+    color: #3b2f2f !important;
+}
+
+.active {
+    font-weight: bold;
+}
